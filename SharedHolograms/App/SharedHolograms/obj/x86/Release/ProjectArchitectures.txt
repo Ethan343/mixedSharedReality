@@ -1,0 +1,2 @@
+C:\Users\escho\OneDrive\Desktop\CS 4910\SharedHolograms\HolographicAcademy-Holograms-240-SharedHolograms\SharedHolograms\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\escho\OneDrive\Desktop\CS 4910\SharedHolograms\HolographicAcademy-Holograms-240-SharedHolograms\SharedHolograms\App\SharedHolograms\SharedHolograms.csproj;x86
