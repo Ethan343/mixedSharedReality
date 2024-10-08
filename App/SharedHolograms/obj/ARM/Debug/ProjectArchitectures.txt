@@ -1,0 +1,2 @@
+C:\Users\escho\OneDrive\Desktop\CS 4910\SharedHolograms\SharedHolograms\SharedHolograms\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;arm
+C:\Users\escho\OneDrive\Desktop\CS 4910\SharedHolograms\SharedHolograms\SharedHolograms\App\SharedHolograms\SharedHolograms.csproj;arm
