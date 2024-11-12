@@ -20,6 +20,7 @@
 - Visual Studio 2017 - https://visualstudio.microsoft.com/vs/older-downloads/
 - Unity Hub - https://docs.unity3d.com/hub/manual/InstallHub.html
 - Useful starting tutorial to familiarize with setting up a hololens project: https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/tutorials/holograms-100
+- 
 
 ### Needed Software (Install sequentially)
 - Windows 10 or higher
@@ -30,6 +31,7 @@
   - Install Unity 2019
     - Add module Visual Studio 2019         [Adding A Unity Module](#Adding-A-Module-to-unity-hub)
     - Add module Universal Windows Platform [Adding A Unity Module](#Adding-A-Module-to-unity-hub)
+- Mixed Reality toolkit 2.7.3
 
 ## Installation
 1. Install necessary software [Prerequisites](#Prerequisites)
