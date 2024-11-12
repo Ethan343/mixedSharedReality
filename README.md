@@ -41,12 +41,7 @@ Crazy picture of sharing a model with people here...
 
 ## Adding A Module to unity hub
 ![Screenshot 2024-11-12 130034](https://github.com/user-attachments/assets/c27f7586-a9a1-4049-8952-4d383608de81)
-
 ![Screenshot 2024-11-12 130214](https://github.com/user-attachments/assets/f37fdc1e-c8ac-45bf-8ea3-db02b13c030b)
-
-
-<img width="652" alt="Screenshot 2024-11-12 134418" src="[https://github.com/user-attachments/assets/534c0233-db96-42fc-93de-9260b9c28dfd](https://github.com/user-attachments/assets/c27f7586-a9a1-4049-8952-4d383608de81)">
-<img width="652" alt="Screenshot 2024-11-12 134418" src="[https://github.com/user-attachments/assets/534c0233-db96-42fc-93de-9260b9c28dfd](https://github.com/user-attachments/assets/f37fdc1e-c8ac-45bf-8ea3-db02b13c030b)">
 <img width="652" alt="Screenshot 2024-11-12 134418" src="https://github.com/user-attachments/assets/534c0233-db96-42fc-93de-9260b9c28dfd">
 
 
