@@ -6,7 +6,7 @@
 - [Prerequisites](#Prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [AddingAModule](##Adding)
+- [AddingAModule](#Adding)
 - [Credits](#credits)
 - [License](#license)
 
