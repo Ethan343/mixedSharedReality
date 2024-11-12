@@ -23,7 +23,11 @@ Crazy picture of sharing a model with people here...
 ### Needed Software
 - Windows 10 or higher
 - Hyper V installed for windows
-- Hololens 1 Emulator 
+- Visual Studio 2017  (Required to install Emulator)
+- Hololens 1 Emulator (Needs Visual Studio 2017 to install)
+- Unity Hub
+- - Install Unity 2019
+  -  Install oaksd
 
 
 
