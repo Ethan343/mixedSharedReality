@@ -29,8 +29,9 @@ Crazy picture of sharing a model with people here...
 
 ## Installation
 1. Clone the repository:
-git clone [(https://github.com/Ethan343/mixedSharedReality.git)]
+  git clone https://github.com/Ethan343/mixedSharedReality.git
 
+2. 
 
 
 
