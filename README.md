@@ -10,11 +10,11 @@
 - [Credits](#credits)
 - [License](#license)
 
-
-
-Crazy picture of sharing a model with people here...
-
-
+.
+.
+Picture of people sharing a hologram here
+.
+.
 
 ## Prerequisites 
 ### Links
