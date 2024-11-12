@@ -22,6 +22,7 @@ Crazy picture of sharing a model with people here...
 - Hyper V - https://www.youtube.com/watch?v=YxmLCdduI6U&ab_channel=DayOneTech
 - Visual Studio 2017 - https://visualstudio.microsoft.com/vs/older-downloads/
 - Unity Hub - https://docs.unity3d.com/hub/manual/InstallHub.html
+- Useful starting tutorial to familiarize with setting up a hololens project: https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/tutorials/holograms-100
 
 ### Needed Software (Install sequentially)
 - Windows 10 or higher
@@ -37,7 +38,7 @@ Crazy picture of sharing a model with people here...
 1. Install necessary software [Prerequisites](#Prerequisites)
 2. Clone the repository:
   git clone https://github.com/Ethan343/mixedSharedReality.git
-3. 
+3. Drag and drop repo into an empty unity project
 
 
 ## Adding A Module to unity hub
