@@ -1,6 +1,6 @@
-Mixed Shared Reality - Hololens 1
+# Mixed Shared Reality - Hololens 1
 
-A user friendly way to interact and share holograms with friends!
+## A user friendly way to interact and share holograms with friends!
 
 ## Table of Contents
 - [Prerequisites](#Prerequisites)
