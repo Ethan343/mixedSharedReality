@@ -32,15 +32,13 @@ Crazy picture of sharing a model with people here...
     - Add module Visual Studio 2019    []
     - Add module Universal Windows Platform
 
-
-# add
 ## Installation
 1. Install necessary software [Prerequisites](#Prerequisites)
 2. Clone the repository:
   git clone https://github.com/Ethan343/mixedSharedReality.git
 3. 
 
-
+# add
 ## Adding A Module to unity hub
 ![Screenshot 2024-11-12 130034](https://github.com/user-attachments/assets/c27f7586-a9a1-4049-8952-4d383608de81)
 
