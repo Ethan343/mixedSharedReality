@@ -38,7 +38,7 @@ Crazy picture of sharing a model with people here...
 1. Install necessary software [Prerequisites](#Prerequisites)
 2. Clone the repository:
   git clone https://github.com/Ethan343/mixedSharedReality.git
-3. Drag and drop repo into an empty unity project
+3. Drag and drop folder location into an empty unity 2019 project 
 
 
 ## Adding A Module to unity hub
