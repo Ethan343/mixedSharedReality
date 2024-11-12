@@ -4,6 +4,7 @@ User friendly way to interact and share holograms with friends!
 
 
 ## Table of Contents
+- [Prerequisites](#Prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
