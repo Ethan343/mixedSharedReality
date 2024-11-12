@@ -29,8 +29,8 @@ Crazy picture of sharing a model with people here...
 - Hololens 1 Emulator (Needs Visual Studio 2017 to install)
 - Unity Hub
   - Install Unity 2019
-    - Add module Visual Studio 2019    [](#Adding-A-Module-to-unity-hub)
-    - Add module Universal Windows Platform [](#Adding-A-Module-to-unity-hub)
+    - Add module Visual Studio 2019         [Adding A Unity Module](#Adding-A-Module-to-unity-hub)
+    - Add module Universal Windows Platform [Adding A Unity Module](#Adding-A-Module-to-unity-hub)
 
 ## Installation
 1. Install necessary software [Prerequisites](#Prerequisites)
