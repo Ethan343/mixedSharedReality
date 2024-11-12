@@ -6,7 +6,7 @@
 - [Prerequisites](#Prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Adding A Module to unity hub](#add)
+- [AddModule](##Adding-A-Module-to-unity-hub)
 - [Credits](#credits)
 - [License](#license)
 
@@ -38,7 +38,7 @@ Crazy picture of sharing a model with people here...
   git clone https://github.com/Ethan343/mixedSharedReality.git
 3. 
 
-# add
+
 ## Adding A Module to unity hub
 ![Screenshot 2024-11-12 130034](https://github.com/user-attachments/assets/c27f7586-a9a1-4049-8952-4d383608de81)
 
