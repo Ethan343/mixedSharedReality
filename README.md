@@ -6,7 +6,7 @@
 - [Prerequisites](#Prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Adding](##Adding)
+- [Adding A Module to unity hub](##Adding_A_Module_to_unity_hub)
 - [Credits](#credits)
 - [License](#license)
 
