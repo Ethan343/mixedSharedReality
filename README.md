@@ -6,6 +6,7 @@
 - [Prerequisites](#Prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
+- [AddingAModule](##Adding)
 - [Credits](#credits)
 - [License](#license)
 
@@ -28,7 +29,7 @@ Crazy picture of sharing a model with people here...
 - Hololens 1 Emulator (Needs Visual Studio 2017 to install)
 - Unity Hub
   - Install Unity 2019
-    - Add module Visual Studio 2019   []
+    - Add module Visual Studio 2019    []
     - Add module Universal Windows Platform
 
 
