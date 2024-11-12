@@ -42,14 +42,6 @@ To use the MixedSharedReality, follow these steps:
 1. Clone the repo: 
 2. Select the desired date range for your forecast.
 3. Click "Get Forecast" to view the weather data.
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bullet list
-  - Nested bullet
  
 
 | Column 1 | Column 2 | Column 3 |
