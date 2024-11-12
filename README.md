@@ -10,11 +10,10 @@
 - [Credits](#credits)
 - [License](#license)
 
-- .
-- .
-Picture of people sharing a hologram here
-- .
-- .
+
+
+#Picture of people sharing a hologram here
+
 
 ## Prerequisites 
 ### Links
