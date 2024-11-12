@@ -44,7 +44,6 @@ Crazy picture of sharing a model with people here...
 
 ![Screenshot 2024-11-12 130214](https://github.com/user-attachments/assets/f37fdc1e-c8ac-45bf-8ea3-db02b13c030b)
 
-![Screenshot 2024-11-12 134418.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9a28727a-61e2-473e-87dd-e869fbc6a1f8/75a00bf1-d578-491b-98a1-a5acbc49437e/Screenshot_2024-11-12_134418.png)
 
 
 
