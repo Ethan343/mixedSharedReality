@@ -1,6 +1,6 @@
 Mixed Shared Reality - Hololens 1
 
-User friendly way to interact and share holograms with friends!
+A user friendly way to interact and share holograms with friends!
 
 
 ## Table of Contents
@@ -9,6 +9,9 @@ User friendly way to interact and share holograms with friends!
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+
+
+Crazy picture of sharing a model with people here...
 
 
 
@@ -22,24 +25,20 @@ User friendly way to interact and share holograms with friends!
 - Hyper V installed for windows
 - Hololens 1 Emulator 
 
+
+
 ## Installation
 1. Clone the repository:
 git clone https://github.com/username/WeatherForecastApp.git
-
-cd WeatherForecastApp
-
-npm install
-
-npm start
 
 
 
 
 ## Usage
 
-To use the WeatherForecastApp, follow these steps:
+To use the MixedSharedReality, follow these steps:
 
-1. Enter your location in the search bar.
+1. Clone the repo: 
 2. Select the desired date range for your forecast.
 3. Click "Get Forecast" to view the weather data.
 
