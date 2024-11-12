@@ -13,13 +13,14 @@ User friendly way to interact and share holograms with friends!
 
 
 ## Prerequisites 
-# Links
+### Links
 - Windows 10, hololens 1 emulator: https://learn.microsoft.com/en-us/windows/mixed-reality/develop/install-the-tools
+- hyper V (install in description): https://www.youtube.com/watch?v=YxmLCdduI6U&ab_channel=DayOneTech
+
+### Needed Software
 - Windows 10 or higher
 - Hyper V installed for windows
 - Hololens 1 Emulator 
-
-
 
 ## Installation
 1. Clone the repository:
