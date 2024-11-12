@@ -20,39 +20,23 @@ Crazy picture of sharing a model with people here...
 - Windows 10, hololens 1 emulator: https://learn.microsoft.com/en-us/windows/mixed-reality/develop/install-the-tools
 - hyper V (install in description): https://www.youtube.com/watch?v=YxmLCdduI6U&ab_channel=DayOneTech
 
-### Needed Software
+### Needed Software (Install sequentially)
 - Windows 10 or higher
 - Hyper V installed for windows
 - Visual Studio 2017  (Required to install Emulator)
 - Hololens 1 Emulator (Needs Visual Studio 2017 to install)
 - Unity Hub
-- - Install Unity 2019
-  -  Install oaksd
+  - Install Unity 2019
+    - Add module Visual Studio 2019   
+    - Add module Universal Windows Platform
 
-- Bullet list
-  - Nested bullet
 
 ## Installation
-1. Clone the repository:
+1. Install necessary software [Prerequisites](#Prerequisites)
+2. Clone the repository:
   git clone https://github.com/Ethan343/mixedSharedReality.git
+3. 
 
-2. 
-
-
-
-## Usage
-
-To use the MixedSharedReality, follow these steps:
-
-1. Clone the repo: 
-2. Select the desired date range for your forecast.
-3. Click "Get Forecast" to view the weather data.
- 
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Row 1    | Data     | Data     |
-| Row 2    | Data     | Data     |
 
 
 
