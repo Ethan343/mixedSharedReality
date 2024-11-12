@@ -10,6 +10,7 @@
 - [License](#license)
 
 
+
 Crazy picture of sharing a model with people here...
 
 
@@ -27,7 +28,7 @@ Crazy picture of sharing a model with people here...
 - Hololens 1 Emulator (Needs Visual Studio 2017 to install)
 - Unity Hub
   - Install Unity 2019
-    - Add module Visual Studio 2019   
+    - Add module Visual Studio 2019   []
     - Add module Universal Windows Platform
 
 
@@ -38,10 +39,11 @@ Crazy picture of sharing a model with people here...
 3. 
 
 
+## Adding Module to unity hub
+![Screenshot 2024-11-12 130034](https://github.com/user-attachments/assets/c27f7586-a9a1-4049-8952-4d383608de81)
 
+![Screenshot 2024-11-12 130214](https://github.com/user-attachments/assets/f37fdc1e-c8ac-45bf-8ea3-db02b13c030b)
 
-Links: [Link Text](URL)
-Images: ![Alt Text](URL)
 
 
 
