@@ -7,15 +7,17 @@ User friendly way to interact and share holograms with friends!
 - [Prerequisites](#Prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Credits](#credits)
 - [License](#license)
 
 
 
-## Prerequisites
-- Node.js 14.x or higher
-- Python 3.8 or higher
-- Windows, macOS, or Linux operating system
+## Prerequisites 
+# Links
+- Windows 10, hololens 1 emulator: https://learn.microsoft.com/en-us/windows/mixed-reality/develop/install-the-tools
+- Windows 10 or higher
+- Hyper V installed for windows
+- Hololens 1 Emulator 
 
 
 
