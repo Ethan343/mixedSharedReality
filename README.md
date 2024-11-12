@@ -20,7 +20,6 @@
 - Visual Studio 2017 - https://visualstudio.microsoft.com/vs/older-downloads/
 - Unity Hub - https://docs.unity3d.com/hub/manual/InstallHub.html
 - Useful starting tutorial to familiarize with setting up a hololens project: https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/tutorials/holograms-100
-- 
 
 ### Needed Software (Install sequentially)
 - Windows 10 or higher
