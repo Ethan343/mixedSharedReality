@@ -19,7 +19,7 @@ Crazy picture of sharing a model with people here...
 ## Prerequisites 
 ### Links
 - Windows 10, hololens 1 emulator - https://learn.microsoft.com/en-us/windows/mixed-reality/develop/install-the-tools
-- Hyper V (Virtualization system level software, install link in description) - https://www.youtube.com/watch?v=YxmLCdduI6U&ab_channel=DayOneTech
+- Hyper V - https://www.youtube.com/watch?v=YxmLCdduI6U&ab_channel=DayOneTech
 - Visual Studio 2017 - https://visualstudio.microsoft.com/vs/older-downloads/
 - Unity Hub - https://docs.unity3d.com/hub/manual/InstallHub.html
 
